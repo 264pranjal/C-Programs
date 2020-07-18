@@ -68,4 +68,4 @@
 
 24. Binary to decimal conversion of many numbers.
 
-25.
+25. Decimal to octal conversion
